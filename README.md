@@ -1,6 +1,7 @@
 # Particles
 Based on 'https://fnky.github.io/particle-life/'
 Two different versions of the same idea implemented in C# within Unity, and in Python
+I originally actually implemented this with Java before I did C#, but as with the C# source code, I lost that code. At the very least now I have these two versions, with the C# being very similar to the Java in final product.
 
 The version I made of this within Unity is much older and I am no graphic designer by any means, but I was curious if I could make this idea myself.
 
