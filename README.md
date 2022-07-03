@@ -1,4 +1,4 @@
-# particles
+# Particles
 Based on 'https://fnky.github.io/particle-life/'
 Two different versions of the same idea implemented in C# within Unity, and in Python
 
